@@ -1,6 +1,9 @@
 ![image](/docs/main.jpg)
 # ❤ MEET:Z 소개
 > "팬과 스타의 MEET을 이뤄주는 영통팬싸 플랫폼"
+>
+<h2><a href="https://www.youtube.com/watch?v=4oSq8jNbbAM&t=5s" target="_blank">:green_heart: 시연 영상</a></h2>
+
 
 ## 📅 개발 기간
 **24.07.08 ~ 24.08.16** (7주)
